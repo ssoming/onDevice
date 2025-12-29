@@ -1,0 +1,3 @@
+/home/user15/workspace_ondevice_2/avr/atmega128a/build/CMakeFiles/atmega128a.elf.dir
+/home/user15/workspace_ondevice_2/avr/atmega128a/build/CMakeFiles/edit_cache.dir
+/home/user15/workspace_ondevice_2/avr/atmega128a/build/CMakeFiles/rebuild_cache.dir
